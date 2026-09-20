@@ -1,0 +1,12 @@
+# Environnement & Cache Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Fichiers volumineux téléchargés dans data/
+data/raw/*.csv
+
+# Fichiers système
+.DS_Store
+Thumbs.db
